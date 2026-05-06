@@ -1,3 +1,5 @@
 版本代号：看看当前的版本号是否可以正常使用
 补充了新的代码后
-git add .
+    git add .
+    git commit -m 'v2'
+    git push origin main
