@@ -3,3 +3,5 @@
     git add .
     git commit -m 'v2'
     git push origin main
+
+尝试使用从服务器上传
